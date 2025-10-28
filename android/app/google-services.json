@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1022091343603",
+    "project_id": "mailgpt-47c2f",
+    "storage_bucket": "mailgpt-47c2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022091343603:android:24fd12fa990d1faa61a986",
+        "android_client_info": {
+          "package_name": "com.example.mailgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022091343603-tec08s163ks79anmc4nufpjblfpil35a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mailgpt",
+            "certificate_hash": "2cb325779b482ac9026f148ec2eaf29d29f283a6"
+          }
+        },
+        {
+          "client_id": "1022091343603-4u7vl69ca6dlug42ek5ihdog9od5s2vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VJ-Y3tXwS9PjBORqxxBQJ7EDNXOue3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022091343603-4u7vl69ca6dlug42ek5ihdog9od5s2vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022091343603-nq1eji0sgcs2pcvkjro3j5kuih134rn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mailgpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
